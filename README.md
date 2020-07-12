@@ -1,6 +1,9 @@
 # FiltroAuxilioEmergencial
 Limpeza e filtragem de dados referentes ao Auxílio Emergencial utilizando Python e as bibliotecas pandas e dask.dataframe. Feito no no Jupyter Notebook.
 
+# Requerimentos:
+
+Python 3, pandas, dask.dataframe, jupyter notebook
 
 O arquivo auxilio.ipynb mostra como filtrar os dados do Auxilio emergencial.
 
