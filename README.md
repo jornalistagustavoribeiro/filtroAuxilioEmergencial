@@ -3,7 +3,7 @@ Limpeza e filtragem de dados referentes ao Auxílio Emergencial utilizando Pytho
 
 # Requerimentos:
 
-Python 3, pandas, dask.dataframe, jupyter notebook
+Anaconda3, pandas, dask.dataframe, jupyter notebook
 
 # Uso:
 
